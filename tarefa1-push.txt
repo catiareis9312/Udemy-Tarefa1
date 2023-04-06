@@ -1,0 +1,11 @@
+Hey there,
+I'd like for you to create your first repository on GitHub.com (create a free repository).
+Then you'll need to set it up on your computer (clone it or add the git remote url).
+Then create a new sample file (it can be anything!) and push it to your repository.
+Good luck! 
+Perguntas dessa tarefa
+
+Which command is used for copying a repository from GitHub to your computer?
+Which command is used to push files to from your computer to GitHub
+
+
